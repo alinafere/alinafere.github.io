@@ -40,6 +40,6 @@ hugoblox:
       enable: true
   search:
     enable: true
-  marketing:
-    analytics:
-      google_analytics: 'G-PW727ERPD2'
+  analytics:
+    google:
+      measurement_id: 'G-PW727ERPD2'
