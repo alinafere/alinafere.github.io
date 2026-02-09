@@ -81,12 +81,24 @@ skills:
       - label: "Grant Proposals"
         level: 4
 languages:
-  - name: "English"
+  - name: "Romanian"
     level: 5
     label: "Native"
-  - name: "Spanish"
+  - name: "English"
     level: 4
     label: "Fluent"
+  - name: "French"
+    level: 4
+    label: "Fluent"
+  - name: "Japanese"
+    level: 4
+    label: "Fluent"
+  - name: "Dutch"
+    level: 3
+    label: "Intermediate"
+  - name: "Spanish"
+    level: 3
+    label: "Intermediate"
 awards:
   - title: "Best Paper Award"
     awarder: "NeurIPS"
