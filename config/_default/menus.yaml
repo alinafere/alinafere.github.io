@@ -25,3 +25,8 @@ main:
   # - name: Courses
   #   url: courses/
   #   weight: 40
+
+footer:
+  - name: Privacy
+    url: /privacy/
+    weight: 10
