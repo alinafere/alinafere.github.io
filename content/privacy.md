@@ -2,6 +2,7 @@
 title: Privacy Policy
 date: 2026-02-13
 type: page
+share: false
 ---
 
 ## Privacy Policy
