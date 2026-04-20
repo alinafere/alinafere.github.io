@@ -36,11 +36,7 @@ education:
     institution: "ESSEC Business School, France"
     start: "2009-09-01"
     end: "2014-06-30"
-    summary: "Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.\n"
-    button:
-      text: "Download dissertation"
-      url: "/resume.pdf"
-      icon: "hero/arrow-down-tray"
+    summary: ""
   - degree: "MS in Economics (Applied Statistics)"
     institution: "Shizuoka University, Japan"
     start: "2007-09-01"
@@ -53,11 +49,7 @@ experience:
   - role: "Assistant/ Associate Professor of Marketing"
     org: "Rotterdam School of Management, Erasmus University, the Netherlands"
     start: "2015-08-01"
-    summary: "Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.\n"
-    button:
-      text: "View portfolio"
-      url: "/"
-      icon: "hero/arrow-down-tray"
+    summary: ""
   - role: "Visiting Assistant Professor of Marketing"
     org: "University of Texas at Dallas, USA"
     start: "2014-08-01"
@@ -66,7 +58,7 @@ experience:
 skills:
   - name: "Technical Skills"
     items:
-      - label: "R"
+      - label: "R, Stan"
       - label: "Bayesian Statistics"
   - name: "Research & Communication"
     items:
